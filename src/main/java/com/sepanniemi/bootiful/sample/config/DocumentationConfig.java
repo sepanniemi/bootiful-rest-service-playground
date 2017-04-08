@@ -1,4 +1,4 @@
-package com.sepanniemi.bootiful.springfox.config;
+package com.sepanniemi.bootiful.sample.config;
 
 import com.fasterxml.classmate.TypeResolver;
 import org.springframework.beans.factory.annotation.Autowired;

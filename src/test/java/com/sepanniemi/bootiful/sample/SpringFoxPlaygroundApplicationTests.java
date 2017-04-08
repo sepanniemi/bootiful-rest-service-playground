@@ -1,4 +1,4 @@
-package com.sepanniemi.bootiful.springfox;
+package com.sepanniemi.bootiful.sample;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

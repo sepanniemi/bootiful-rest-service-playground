@@ -1,4 +1,4 @@
-package com.sepanniemi.bootiful.springfox.model;
+package com.sepanniemi.bootiful.sample.model;
 
 /**
  * Created by sepanniemi on 08/12/16.

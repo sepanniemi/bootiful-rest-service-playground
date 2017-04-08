@@ -1,4 +1,4 @@
-package com.sepanniemi.bootiful.springfox.model;
+package com.sepanniemi.bootiful.sample.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import org.immutables.value.Value;

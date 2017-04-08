@@ -1,4 +1,4 @@
-package com.sepanniemi.bootiful.springfox;
+package com.sepanniemi.bootiful.sample;
 
 import lombok.extern.slf4j.Slf4j;
 
